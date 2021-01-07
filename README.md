@@ -8,6 +8,8 @@
 - Jumper Wire
 - 1x Removable keyboard
 - 1x OTG cable (micro USB to USB female)
+- Led
+- Resistor
 ## Library
 - [NewToneLib](https://github.com/YordanYordanovGIT/NewToneLib)
 - [USBhost](https://github.com/arduino-libraries/USBHost)
